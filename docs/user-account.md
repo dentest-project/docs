@@ -15,7 +15,7 @@ To create an account on Dentest, you have to go through https://dentest.tech/reg
 there is no social login. 
 
 We only need three pieces information, we don't care about your name, we don't care about where 
-you live, and we don't care about having thousands of ways to contact you. All we need is the
+you live, and we don't care about having thousands of ways of contacting you. All we need is the
 strict minimum: 
 
 - a **username**, that will be publicly shown
