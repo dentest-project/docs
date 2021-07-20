@@ -9,7 +9,7 @@ for your scenario.
 
 ## Opening the steps drawer
 
-To open the steps bank, click on the _SHOW STEPS_ button: ![](/img/show-steps.png)
+To open the steps bank, click on the _SHOW STEPS_ button from a feature's page: ![](/img/show-steps.png)
 
 The drawer is divided in three parts : a button to create a new step, a filters subdivision, and finally the list of 
 existing tags, sorted by adverb (_Givens_, _Whens_ and _Thens_). Each step item is prefixed by an icon representing the 
