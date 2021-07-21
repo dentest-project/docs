@@ -1,6 +1,5 @@
 ---
-sidebar_position: 1
-slug: /
+sidebar_position: 2
 ---
 
 # What is Dentest?
@@ -9,7 +8,7 @@ In Breton, _den_ means _human_. Basically, Dentest is an online platform on whic
 Really, it's no more than that. But we believe that it was the missing piece to fully embrace
 the power of a syntax that has been created to make every actor of a same project speak the same
 language. Let us explain why, in three points: what Gherkin already offers as is, what are the painful aspects of it, 
-and how Dentest fixes them. 
+and how Dentest fixes them.
 
 ## The benefits of Gherkin
 
