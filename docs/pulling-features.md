@@ -75,7 +75,7 @@ If you followed all the previous settings, just do, from the root directory of y
 dentest pull
 ```
 
-All the features that aren't in `Draft` mode will be pulled inside your project. You can start implementing them!
+All the features **that aren't in `Draft` mode** will be pulled inside your project. You can start implementing them!
 
 ### Using a different name for the configuration file
 
