@@ -14,7 +14,7 @@ Good to know before starting: feature's contents will be saved only when you cli
 ## Status
 
 You don't want developers to start implementing a feature that is not done specifying. That's why features are created 
-with a `Draft` status. While they're in this state, **developers won't be able to pull it in the project**.
+with a `Draft` status. While they're in this state, **developers won't be able to pull them in the project**.
 
 Once the feature is ready to be implemented, change the status, by clicking on the status chip, to `Ready to dev`. This 
 status indicates to people reading the features as a documentation that this one has not been released yet, but is 
