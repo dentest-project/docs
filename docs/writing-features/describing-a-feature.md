@@ -71,6 +71,10 @@ The scenarios can be reordered by clicking on the _up_ or _down_ arrow buttons
 
 A whole scenario can be copied by clicking the following icon: ![](/img/copy.png)
 
+### Removing steps or scenarios
+
+To remove a scenario, or just one of its steps, click on the following icon: ![](/img/delete.png)
+
 ## Special scenarios
 
 ### Background
