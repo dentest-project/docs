@@ -24,10 +24,12 @@ How we see the developers journey:
 A `.dentest.yml` file must be created at the root of the project. It can be a different name, we'll see that later, but 
 this one is handled by default.
 
-This file must contain the directory in which you want to pull the Gherkin files.
+This file must contain the directory in which you want to pull the Gherkin files, and can also contain 
+a wrapper for inline step parameters (such as quotes).
 
 ```yaml
-dir: features
+dir: features # Mandatory. The folder in which you want to pull the features
+inline_parameter_wrapper: '"' # Optional. The string that will surround the inline parameters of your features steps
 ```
 
 ### Retrieving your token
