@@ -41,6 +41,11 @@ To declare inline parameters, highlight part you want to make variable. The foll
 Click it, and the input will be splitted to welcome the newly created param. To remove it, just click the cross within 
 the corresponding input.
 
+Under the param input, you can decide if you prefer having a free-text param, or a constrained one, with a list of predefined values.
+
+![](/img/inline-step-param-type.png)
+
+
 ### The extra parameter
 
 Then, select the extra parameter type this step will welcome. When choosing this step in your scenarios, an extra field 
