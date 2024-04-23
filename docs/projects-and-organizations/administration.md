@@ -17,7 +17,7 @@ Changing a title will also change the resource's URL.
 
 ## Deleting
 
-To delete an organization or project, click on this icon: ![Delete icon](/img/delete.png)
+To delete an organization or project, click on the red button inviting you to delete it.
 
 All of the resource's contents will be permanently deleted, and if it's an organization, all its project will be erased. 
 So please ensure you really want to do that. We don't keep any backup, so we won't be able to restore your 
@@ -25,18 +25,12 @@ organization or project.
 
 ## Changing a project's visibility
 
-A small lock indicates the visibility of your project. Depending on its color and shape, the project is either public, internal or
-private. Clicking on the lock will change the visibility.
-
-| Lock                                          | Visibility |
-|-----------------------------------------------|------------|
-| ![Public lock icon](/img/lock-public.png)     | Public     |
-| ![Internal lock icon](/img/lock-internal.png) | Internal   |
-| ![Private lock icon](/img/lock-private.png)   | Private    |
+A small button indicates the visibility of your project. Depending on its color and text, the project is either public, internal or
+private. Clicking on the button will change the visibility.
 
 ## Users
 
-You can access the list of users of your project or organization by clicking on this icon: ![users icon](/img/users.png)
+You can access the list of users of your project or organization by clicking on the "Administrate users" button.
 
 ### Adding users
 
@@ -91,5 +85,4 @@ The following permissions are valid whether the user is in an organization's pro
 
 ### Removing users
 
-To remove users from a project or an organization, click on the following icon in the given user's 
-row: ![Leave icon](/img/leave.png) 
+To remove users from a project or an organization, click on the corresponding "Remove user" button.

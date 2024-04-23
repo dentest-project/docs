@@ -8,9 +8,9 @@ sidebar_position: 1
 
 To create a new feature, you must have writing rights on the project.
 
-Then, just click on this icon: ![](/img/create-feature.png)
+Then, just click on the "Create a feature" button.
 
-Insert the name of the feature, and confirm. An orange card will appear, attesting that the feature has been created.
+Insert the name of the feature, and confirm. A new card will appear, attesting that the feature has been created.
 
 ## Renaming
 

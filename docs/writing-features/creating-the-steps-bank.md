@@ -7,12 +7,12 @@ sidebar_position: 4
 A very handy feature of Dentest is its steps bank. With it, no more pain when it comes to find the right existing steps 
 for your scenario.
 
-## Opening the steps drawer
+## Displaying the steps drawer
 
-To open the steps bank, click on the _SHOW STEPS_ button from a feature's page: ![](/img/show-steps.png)
+To see the steps bank, your feature must be in "draft" mode.
 
 The drawer is divided in three parts : a button to create a new step, a filters subdivision, and finally the list of 
-existing tags, sorted by adverb (_Givens_, _Whens_ and _Thens_). Each step item is prefixed by an icon representing the 
+existing steps, sorted by adverb (_Givens_, _Whens_ and _Thens_). Each step item is prefixed by an icon representing the 
 extra param it needs (none, multiline or table). 
 
 ## Creating a new step
@@ -36,26 +36,22 @@ Just pick the accurate adverb in the dedicated select box
 
 Type the sentence in the input.
 
-To declare inline parameters, highlight part you want to make variable. The following icon will appear: ![](/img/split-step.png)
+To declare inline parameters, highlight part you want to make variable. A button to extract the param will show up.
 
-Click it, and the input will be splitted to welcome the newly created param. To remove it, just click the cross within 
+Click it, and the input will be split to welcome the newly created param. To remove it, just click the cross within 
 the corresponding input.
 
 Under the param input, you can decide if you prefer having a free-text param, or a constrained one, with a list of predefined values.
-
-![](/img/inline-step-param-type.png)
 
 
 ### The extra parameter
 
 Then, select the extra parameter type this step will welcome. When choosing this step in your scenarios, an extra field 
-will be created if you don't select the "none" type. Select the right icon for your extra param type:
+will be created if you don't select the "none" type.
 
-| Icon                               | Extra parameter type |
-| ---------------------------------- | -------------------- |
-| ![](/img/step-param-none.png)      | No extra param       |
-| ![](/img/step-param-multiline.png) | Paragraph            |
-| ![](/img/step-param-table.png)     | Table                |
+If you chose the table type, you'll be able to define, like in inline params, a data template. This will allow you to choose the headers 
+of the table, and for each cell, if it should be a free text or a set of predefined options. Use options as much as you can,
+as it helps a lot your pairs when they will need to write new scenarios.
 
 ### Tags
 

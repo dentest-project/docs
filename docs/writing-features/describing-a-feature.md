@@ -9,7 +9,7 @@ your application.
 
 ## Saving
 
-Good to know before starting: feature's contents will be saved only when you click the following icon: ![](/img/save.png)
+Good to know before starting: feature's contents will be saved automatically.
 
 ## Status
 
@@ -46,10 +46,9 @@ A feature is basically a list of scenarios. And a scenario is basically a list o
 ### Viewer vs writer mode
 
 A scenario is in viewer mode first. To be able to fill in the steps params, reorder steps, edit title or tags, or switch 
-its type, you must enter in writer mode, by clicking the following icon: 
-![](/img/writer-mode.png)
+its type, you must enter in writer mode, by clicking on it.
 
-To go back to the viewer mode, click on the following icon: ![](/img/viewer-mode.png)
+To go back to the viewer mode, click on the cross, in the top-right corner.
 
 ### Editing the title
 
@@ -66,8 +65,7 @@ Tags can also be put at the scenario level. This is exactly the same purpose tha
 ### Adding steps
 
 You can drag'n'drop steps from the bank of steps. If the steps require params (inline, paragraph or table), 
-inputs or text areas will be created accordingly. For the table case, the dimensions of the needed table will be asked 
-first.
+inputs or text areas will be created accordingly.
 
 You can change the adverb to _And_ or _But_, in order to ease the reading.
 
@@ -77,15 +75,15 @@ In writer mode, you can drag'n'drop the scenario's steps to reorder them.
 
 ### Reordering scenarios
 
-The scenarios can be reordered by clicking on the _up_ or _down_ arrow buttons 
+The scenarios can be reordered by clicking on the corresponding buttons 
 
 ### Copying a scenario
 
-A whole scenario can be copied by clicking the following icon: ![](/img/copy.png)
+A whole scenario can be copied by clicking the dedicated button.
 
 ### Removing steps or scenarios
 
-To remove a scenario, or just one of its steps, click on the following icon: ![](/img/delete.png)
+To remove a scenario, or just one of its steps, click on the trash icon button.
 
 ## Special scenarios
 
@@ -108,5 +106,3 @@ A new "Examples" table will appear. It will contain as many columns as surrounde
 will contain all the surrounded values.
 
 Just fill the "Examples" table with all your test values, and your scenario outline will be set.
-
-

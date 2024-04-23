@@ -30,14 +30,14 @@ So, do not commit it.
 
 To retrieve the token, login to Dentest, and go to the project's root page.
 
-Click on this icon (you must have pull rights to see it): ![](/img/pull-token.png)
+Click on the "Show pull token" button (you must have pull rights to see it).
 
 A dialog will open, with your token in it. Copy it (or click the "Copy" button).
 
 ### Refreshing the pull token
 
 If your token has been compromised, or just to change it, you can also do it from Dentest. Follow the same steps than for 
-the token retrieval, and instead copying the token, just click on the following icon: ![](/img/refresh-token.png)
+the token retrieval, and instead copying the token, just click on the "Regenerate" button.
 
 :::caution
 The previous token will be revoked, you won't be able to use it after this action 
