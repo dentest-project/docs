@@ -113,12 +113,23 @@ Just select the one you want to pull and the file will be created in the directo
 
 ![](/img/vscode-pull.png)
 
+### Changing the configuration
+
+You can either reset the configuration, or update it, by running the following commands from 
+the palette (Ctrl+Shift+P or Cmd+P for Mac): "Dentest: Configuration" and "Dentest: clear configuration"
+
+![](/img/vscode-palette.png)
+
 ### Using the Dentest CLI
 
 #### Getting the Dentest CLI
 
 Look for the Dentest CLI's releases on Github: https://github.com/dentest-project/cli/releases
 In the latest release, download the binary that corresponds to your OS (you can choose between Mac OS or Linux (AMD64)).
+
+:::caution
+On MacOS, you can experience some security warnings. Just add an exception for Dentest in your computer settings.
+:::
 
 If your OS or architecture is not in the list, just clone the project and build it using Rust Cargo (`cargo build --release`).
 
