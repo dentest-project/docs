@@ -80,6 +80,39 @@ be created in the directory you specified.
 ![](/img/jetbrains-pull.png)
 
 
+### Using the VSCode plugin
+
+If you are using VSCode, there is also an extension that you can use. Just search for "Dentest" in the Marketplace.
+
+Otherwise, here is the [link](https://marketplace.visualstudio.com/items?itemName=Dentest.dentest)
+
+#### First pull and configuration
+
+Once installed, you'll see a new button in the status bar ("Dentest pull").
+
+![](/img/vscode-pull-button.png)
+
+By clicking it the first time, you'll enter in configuration mode. You need to fill in some
+information so that the extension finds your features.
+
+![](/img/vscode-config.png)
+
+Here, you can provide the following information:
+
+| Property                      | Explanation                                                                                                             |
+|-------------------------------|-------------------------------------------------------------------------------------------------------------------------|
+| API                           | The URL of the Dentest API. If you are using dentest.tech, let it as is. For a custom install, provide your own API URL. |
+| Pull Token                    | The token you just created from the web interface                                                                       |
+| Features destination          | The directory where you want the features to be created                                                                 |
+| Inline params wrapping string | The string used to surroung step sentences inlined parameters                                                           |
+
+#### Pull
+
+Once everything's settled, when pulling, you'll see a list containing all your features **that aren't in Draft mode**. 
+Just select the one you want to pull and the file will be created in the directory you specified.
+
+![](/img/vscode-pull.png)
+
 ### Using the Dentest CLI
 
 #### Getting the Dentest CLI
